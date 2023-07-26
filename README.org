@@ -1,0 +1,10 @@
+* cl-css
+
+Non-validating, inline CSS generator for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Inaimathi/cl-css.git   |
+| commit  | 8fe654c  |
+| systems | cl-css |
+|---------+-------------------------------------------|
+
